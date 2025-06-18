@@ -2,6 +2,7 @@
 Tesis Maestría Ciencia de Datos
 
 INFORMACIÓN
+
 => señal_sintética => contiene tres archivos creados con señales sintéticas con cambios evidentes en los parámetros de la distribución para probar el algoritmo de Juliana 
 Contiene tres archivos con señales de 2 segundos con Fs = 250hz cuyos datos responden a una distribución normal cuya media cambia en forma abrupta
 en la mitad de la señal, en el primer tercio y el primer cuarto respectivamente.
