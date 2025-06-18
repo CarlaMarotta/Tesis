@@ -7,6 +7,7 @@ Contiene tres archivos con señales de 2 segundos con Fs = 250hz cuyos datos res
 en la mitad de la señal, en el primer tercio y el primer cuarto respectivamente.
 
 SCRIPTS:
+
 => 9_Señal_Prueba => el objetivo es generar una señal 100% artificial en el que haya un cambio abrupto evidente en la mitad de la señal para probar el código de detección de bordes.
 
 => 9_Señal_Prueba_G0, 9_Señal_Prueba_Gamma, 9_Señal_Prueba_Normal => es el código que intenta replicar el método de detección de Juliana. Cada uno corresponde a una distribución diferente. 
